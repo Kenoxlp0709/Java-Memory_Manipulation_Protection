@@ -2,7 +2,7 @@
 The perfect little Java libary to protect your java number values.
 
 This is the perfect little libary for java developers to protect your java values.
-If you are using this libary you can prevent that cheates can manipulate the memory adress values
+If you are using this libary you can prevent that cheaters can manipulate the memory adress values
 of you java application.
 
 
